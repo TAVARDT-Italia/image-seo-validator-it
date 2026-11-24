@@ -49,3 +49,7 @@ Per verifiche estese di risorse multimediali:
 ## Consulenza in Accessibilita e Ottimizzazione Immagini
 
 Per progetti di ottimizzazione catalogo conformi a Standard W3C WCAG e Linee Guida AgID, contattare il team di **TAVARDT Italia**.
+
+***
+
+© 2026 TAVARDT. Tutti i diritti riservati.
