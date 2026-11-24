@@ -1,14 +1,13 @@
 # Analisi SEO per Immagini e Accessibilita Web
 
 [![Analisi SEO Immagini](https://img.shields.io/badge/TAVARDT-Image%20SEO-5b3cf5.svg)](https://tools.tavardt.com/it/analisi-seo-immagini/)
-[![Giurisdizione](https://img.shields.io/badge/Giurisdizione-Italia-00C853.svg)](https://ag.tavardt.com/it/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Verifica tecnica di testi alternativi alt, compressione moderna e conformita agli standard W3C.
 
-Sviluppato e mantenuto dalla divisione di architettura semantica e accessibilita di **[TAVARDT Italia](https://ag.tavardt.com/it/)**.
+Sviluppato e mantenuto dalla divisione di architettura semantica e accessibilita di **TAVARDT Italia**.
 
----
+***
 
 ## Funzionalita di Verifica SEO per Immagini
 
@@ -18,7 +17,7 @@ Sviluppato e mantenuto dalla divisione di architettura semantica e accessibilita
 * **Caricamento Differito (Lazy Loading)**: Ispezione delle direttive `loading="lazy"` per il risparmio di banda.
 * **Punteggio di Ottimizzazione Visuale**: Metrica quantitativa da 0 a 100 con passaggi tecnici di ottimizzazione.
 
----
+***
 
 ## Installazione ed Esecuzione
 
@@ -33,20 +32,20 @@ python image_seo_validator.py https://azienda.it
 Per generare il rapporto in formato strutturato JSON:
 
 ```bash
-python image_seo_validator.py https://azienda.it --json
+python image_seo_validator.py https://azienda.it -json
 ```
 
----
+***
 
 ## Diagnostica Completa sul Web
 
 Per verifiche estese di risorse multimediali:
 
-* **[Analisi SEO per Immagini Ufficiale](https://tools.tavardt.com/it/analisi-seo-immagini/)**
+* **Analisi SEO per Immagini Ufficiale**
 * **[Portale Aziendale TAVARDT Italia](https://ag.tavardt.com/it/)**
 
----
+***
 
 ## Consulenza in Accessibilita e Ottimizzazione Immagini
 
-Per progetti di ottimizzazione catalogo conformi a Standard W3C WCAG e Linee Guida AgID, contattare il team di **[TAVARDT Italia](https://ag.tavardt.com/it/contatti/)**.
+Per progetti di ottimizzazione catalogo conformi a Standard W3C WCAG e Linee Guida AgID, contattare il team di **TAVARDT Italia**.
