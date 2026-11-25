@@ -6,8 +6,6 @@
 
 Verifica tecnica di testi alternativi alt, compressione moderna e conformita agli standard W3C.
 
-Sviluppato e mantenuto dalla divisione di architettura semantica e accessibilita di **TAVARDT**.
-
 ***
 
 ## Funzionalita di Verifica SEO per Immagini
@@ -38,15 +36,6 @@ python image_seo_validator.py https://azienda.it -json
 
 ***
 
-## Diagnostica Completa sul Web
-
-Per verifiche estese di risorse multimediali:
-
-* **Analisi SEO per Immagini Ufficiale**
-* **[Portale Aziendale TAVARDT](https://ag.tavardt.com/it/)**
-
-***
-
 ## Consulenza in Accessibilita e Ottimizzazione Immagini
 
 Per progetti di ottimizzazione catalogo conformi a Standard W3C WCAG e Linee Guida AgID, contattare il team di **TAVARDT**.
@@ -62,7 +51,7 @@ Per progetti di ottimizzazione catalogo conformi a Standard W3C WCAG e Linee Gui
 ***
 
 ### Licenza
-Distribuito sotto Licenza MIT. Consultare il file [LICENSE](LICENSE) per maggiori informazioni.
+Distribuito sotto Licenza MIT.
 
 ***
 
